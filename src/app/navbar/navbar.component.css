@@ -6,3 +6,7 @@
 .navbar-li {
   margin-right: 3%;
 }
+
+.navbar-div {
+  border-bottom: 3px solid black;
+}
