@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+/* Här i style.css är det GLOBAL CSS och alla ändringar här sker över hela appen */
+* {
+  background-color: rgb(49, 49, 49);
+}
